@@ -1,7 +1,5 @@
 # malaria_symptoms_triage_helper_project
 
-I'll load the ability to create a comprehensive summary of your project.## Summary
-
 This repository contains a **Malaria Symptoms Triage Helper** — a machine learning project that builds a binary classification model to identify severe malaria cases based on clinical symptoms.
 
 ### **Project Overview**
